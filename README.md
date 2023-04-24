@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 I am Student in University of Lodz<br>🧑🏻‍💻 I am Future Software Engineer<br>🌱 I am currently Learning<br>⚡Thank you for visit🙂
+👨🏻‍🎓 I am Student in University of Lodz<br>🧑🏻‍💻 I am Future Software Engineer<br>🌱 I am currently Learning Java<br>⚡Thank you for visit🙂
 
 
 ## 🌐 Socials:
